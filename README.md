@@ -8,7 +8,7 @@ web3-inex based dapp
 ```bash
 git clone https://github.com/INEX-EX/web3-inex.git
 cd web3-inex
-python setup.py
+python setup.py install
 ```
 
 #### Steps:
