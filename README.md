@@ -34,4 +34,4 @@ python app.py # open http://localhost:8000
 
 #### Goal
 
-Improve this repogitory as you can in 24h
+Improve this repository as much as you can within 24 hours.
